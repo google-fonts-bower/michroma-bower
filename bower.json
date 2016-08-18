@@ -1,0 +1,17 @@
+{
+    "name": "michroma-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Vernon Adams"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/michroma-bower.git"
+    },
+    "description": "Michroma font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
